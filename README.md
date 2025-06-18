@@ -16,5 +16,5 @@ Organized by week.
 ## 🧭 Navigation
 
 - 🔙 [Back to Repository Home](../../README.md)
-- 🔗 [Open GitHub Project](https://github.com/your-username/your-repo)
+- 🔗 [Open GitHub Project](https://github.com/c-r-loh/dissertation
 
